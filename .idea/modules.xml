@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CobraApp.iml" filepath="$PROJECT_DIR$/.idea/CobraApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cobra.iml" filepath="$PROJECT_DIR$/.idea/Cobra.iml" />
     </modules>
   </component>
 </project>
